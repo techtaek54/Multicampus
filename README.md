@@ -10,13 +10,13 @@
 
 - [해피해킹](https://www.hphk.kr/)
 
-![hphk_logo](README.assets/hphk_logo.png)
+[![hphk_logo](README.assets/hphk_logo.png)](https://www.hphk.kr/)
 
 
 
 ## What I learned ?
 
-
+- Git / GitHub
 
 
 
