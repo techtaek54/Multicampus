@@ -33,3 +33,4 @@
 | 22.07.04 |                       OT                       |                     OT                      |   ✔    |
 | 22.07.05 | [Markdown, Git/GitHub 기초](./TIL/TIL_0705.md) | [Markdown 실습](./TID/markdown_practice.md) |   ✔    |
 | 22.07.06 |      [Git/GitHub 심화](./TIL/TIL_0706.md)      |         Git/GitHub로 프로젝트 관리          |   ✔    |
+| 22.07.07 |      [Git/GitHub 응용](./TIL/TIL_0707.md)      |              GitHub 관리 : PR               |   ✔    |
