@@ -28,9 +28,12 @@
 
 ## Daily record
 
-|   Date   |             TIL (Today I learned)              |              TID (Today I did)              | Status |
-| :------: | :--------------------------------------------: | :-----------------------------------------: | :----: |
-| 22.07.04 |                       OT                       |                     OT                      |   ✔    |
-| 22.07.05 | [Markdown, Git/GitHub 기초](./TIL/TIL_0705.md) | [Markdown 실습](./TID/markdown_practice.md) |   ✔    |
-| 22.07.06 |      [Git/GitHub 심화](./TIL/TIL_0706.md)      |         Git/GitHub로 프로젝트 관리          |   ✔    |
-| 22.07.07 |      [Git/GitHub 응용](./TIL/TIL_0707.md)      |              GitHub 관리 : PR               |   ✔    |
+|   Date   |             TIL (Today I learned)              |                      TID (Today I did)                       | Status |
+| :------: | :--------------------------------------------: | :----------------------------------------------------------: | :----: |
+| 22.07.04 |                       OT                       |                              OT                              |   ✔    |
+| 22.07.05 | [Markdown, Git/GitHub 기초](./TIL/TIL_0705.md) |         [Markdown 실습](./TID/markdown_practice.md)          |   ✔    |
+| 22.07.06 |      [Git/GitHub 심화](./TIL/TIL_0706.md)      |                  Git/GitHub로 프로젝트 관리                  |   ✔    |
+| 22.07.07 |      [Git/GitHub 응용](./TIL/TIL_0707.md)      |                       GitHub 관리 : PR                       |   ✔    |
+| 22.07.08 |                특강 : 직무 탐색                | [직무탐색 실습](https://github.com/techtaek54/job-research/blob/master/reserach.md) |   ✔    |
+| 22.07.11 |                                                |                                                              |        |
+
