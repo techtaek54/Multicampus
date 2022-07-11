@@ -54,3 +54,14 @@
 - `Local Repository` : 헤더 영역
   - 영구 기록하여 버전(commit)으로 관리
 - 40자의 hash 값으로 참조하여 관리 => 효율적인 메모리 관리
+
+
+
+# Branch 
+
+- commit -> `master(main) branch` 생성
+- main branch의 작업에서 새롭거나 추가적인 작업을 할 때 branch 활용
+- `branch` -> `work` -> `merge` (3-way merge / fast-forward merge)
+
+- `Branch pointer`
+  - 실제 줄기 모양의 branch가 생기는 것이 아니라 `branch pointer`가 생기고 이동
