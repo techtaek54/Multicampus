@@ -37,4 +37,5 @@
 | 22.07.08 |                  특강 : 직무 탐색                   | [직무탐색 실습](https://github.com/techtaek54/job-research/blob/master/reserach.md) |   ✔    |
 | 22.07.11 | [Python 기초(1) : 변수와 자료형](./TIL/TIL_0711.md) | [codeup python 기초 100제](https://github.com/techtaek54/Algorithms/tree/master/codeup_basic100) |   ✔    |
 | 22.07.12 |     [Python 기초(2): 제어문](./TIL/TIL_0712.md)     | [codeup 100제](https://github.com/techtaek54/Algorithms/tree/master/codeup_basic100) / [실습문제](https://github.com/techtaek54/Algorithms/tree/master/kdt) |   ✔    |
+| 22.07.13 |      [Python 기초(3): 함수](./TIL/TIL_0713.md)      | [codeup 100제](https://github.com/techtaek54/Algorithms/tree/master/codeup_basic100) / [실습문제](https://github.com/techtaek54/Algorithms/tree/master/kdt) |   ✔    |
 
