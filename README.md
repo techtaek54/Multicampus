@@ -40,4 +40,4 @@
 | 22.07.13 |      [Python 기초(3): 함수](./TIL/TIL_0713.md)      | [codeup 100제](https://github.com/techtaek54/Algorithms/tree/master/codeup_basic100) / [실습문제](https://github.com/techtaek54/Algorithms) |   ✔    |
 | 22.07.14 |   [Python 기초(4): 데이터구조](./TIL/TIL_0714.md)   |     [실습문제](https://github.com/techtaek54/Algorithms)     |   ✔    |
 | 22.07.15 |   [Python 기초(5): 파일 입출력](./TIL/TIL_0715.md)   |     [프로젝트](https://github.com/techtaek54/01-PJT-01)     |   ✔    |
-| 22.07.18 |   [Python 기초(6): 에러 / 예외](./TIL/TIL_0718.md)   |     [프로젝트](https://github.com/techtaek54/Algorithms)     |   ✔    |
+| 22.07.18 |   [Python 기초(6): 에러 / 예외](./TIL/TIL_0718.md)   |     [실습문제](https://github.com/techtaek54/Algorithms)     |   ✔    |
