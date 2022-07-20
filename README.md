@@ -42,3 +42,4 @@
 | 22.07.15 |   [Python 기초(5): 파일 입출력](./TIL/TIL_0715.md)   |     [프로젝트](https://github.com/techtaek54/01-PJT-01)     |   ✔    |
 | 22.07.18 |   [Python 기초(6): 에러 / 예외](./TIL/TIL_0718.md)   |     [실습문제](https://github.com/techtaek54/Algorithms)     |   ✔    |
 | 22.07.19 |   [Python 기초(7): OOP Basic](./TIL/TIL_0719.md)   |     [실습문제](https://github.com/techtaek54/Algorithms)     |   ✔    |
+| 22.07.19 |   [Python 기초(8): OOP advanced](./TIL/TIL_0720.md)   |     [실습문제](https://github.com/techtaek54/Algorithms)     |   ✔    |
