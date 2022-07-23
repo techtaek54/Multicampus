@@ -21,6 +21,7 @@
 ## What I learned ?
 
 - Git / GitHub
+- Python
 
 
 
