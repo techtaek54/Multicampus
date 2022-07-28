@@ -47,5 +47,6 @@
 | 22.07.21 |   [Python 기초(8): Python 심화](./TIL/TIL_0721.md)   |     [실습문제](https://github.com/techtaek54/Algorithms)     |   ✔    |
 | 22.07.22 |   [프로젝트를 위한 requests library](https://requests.readthedocs.io/en/latest/)|     [개인 2차 프로젝트](https://github.com/techtaek54/Project/tree/master/Personal_Project/KDT02_Python_API_requests)     |   ✔    |
 | 22.07.25 |   [자료구조(1) Intro](./TIL/TIL_0725.md)   |     [실습문제](https://github.com/techtaek54/Algorithms/tree/master/kdt/Daily/220725)     |   ✔    |
-| 22.07.26 |   [자료구조(2) : 시간 복잡도, Array](./TIL/TIL_0726.md)   |     [실습문제](https://github.com/techtaek54/Algorithm/tree/master/Python/KDT/Daily/220726)     |   ✔    |
-| 22.07.27 |   [자료구조(3) : 문자열](./TIL/TIL_0727.md)   |     [실습문제](https://github.com/techtaek54/Algorithm/tree/master/Python/KDT/Daily/220727)     |   ✔    |
+| 22.07.26 |   [자료구조(2) : 시간 복잡도, List(Array)](./TIL/TIL_0726.md)   |     [실습문제](https://github.com/techtaek54/Algorithm/tree/master/Python/KDT/Daily/220726)     |   ✔    |
+| 22.07.27 |   [자료구조(3) : String](./TIL/TIL_0727.md)   |     [실습문제](https://github.com/techtaek54/Algorithm/tree/master/Python/KDT/Daily/220727)     |   ✔    |
+| 22.07.27 |   [자료구조(4) : Dictionary](./TIL/TIL_0727.md)   |     [실습문제](https://github.com/techtaek54/Algorithm/tree/master/Python/KDT/Daily/220728)     |   ✔    |
